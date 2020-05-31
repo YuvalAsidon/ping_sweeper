@@ -1,2 +1,3 @@
 # ping_sweeper
-ping sweeper in Bash scripting.
+Ping sweeper in Bash scripting.
+Gets from the user a subnet, validate to check it and ping from 1-254  
